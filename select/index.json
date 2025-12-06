@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "GIRI GIRI",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-06T03:20:41.850223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GIRI GIRI (feat. すぅ)",
+      "artist": "Masayuki Suzuki feat. すぅ",
+      "has_synced": true,
+      "path": "select/01_GIRI_GIRI_(feat._すぅ)_Masayuki_Suzuki_feat._すぅ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GIRI GIRI",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/02_GIRI_GIRI_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GIRI GIRI (feat. Suu)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/03_GIRI_GIRI_(feat._Suu)_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GIRI GIRI",
+      "artist": "Masayuki Suzuki feat. Suu",
+      "has_synced": true,
+      "path": "select/04_GIRI_GIRI_Masayuki_Suzuki_feat._Suu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GIRI GIRI",
+      "artist": "Masayuki Suzuki, すぅ",
+      "has_synced": true,
+      "path": "select/05_GIRI_GIRI_Masayuki_Suzuki,_すぅ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Giri Giri",
+      "artist": "Atarashii Gakkou No Leaders",
+      "has_synced": true,
+      "path": "select/06_Giri_Giri_Atarashii_Gakkou_No_Leaders.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Giri Giri",
+      "artist": "ATARASHII GAKKO!",
+      "has_synced": true,
+      "path": "select/07_Giri_Giri_ATARASHII_GAKKO!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GIRI GIRI - TV Size Ver.",
+      "artist": "Masayuki Suzuki/すぅ",
+      "has_synced": true,
+      "path": "select/08_GIRI_GIRI_-_TV_Size_Ver._Masayuki_Suzuki_すぅ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GIRI GIRI",
+      "artist": "Masayuki Suzuki, Su",
+      "has_synced": true,
+      "path": "select/09_GIRI_GIRI_Masayuki_Suzuki,_Su.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GIRI GIRI (feat. Suu)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/10_GIRI_GIRI_(feat._Suu)_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GIRI GIRI (Instrumental)",
+      "artist": "鈴木雅之 feat.すぅ",
+      "has_synced": true,
+      "path": "select/11_GIRI_GIRI_(Instrumental)_鈴木雅之_feat.すぅ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "GIRI GIRI (feat. Suu) [TV Size Version]",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/12_GIRI_GIRI_(feat._Suu)_[TV_Size_Version]_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GIRI GIRI (TV Size Ver.)",
+      "artist": "鈴木雅之 feat.すぅ",
+      "has_synced": true,
+      "path": "select/13_GIRI_GIRI_(TV_Size_Ver.)_鈴木雅之_feat.すぅ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GIRI GIRI (feat. Suu) [for male Karaoke]",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/14_GIRI_GIRI_(feat._Suu)_[for_male_Karaoke]_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "GIRI GIRI (for female カラオケ)",
+      "artist": "鈴木雅之 feat.すぅ",
+      "has_synced": true,
+      "path": "select/15_GIRI_GIRI_(for_female_カラオケ)_鈴木雅之_feat.すぅ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GIRI GIRI (for male カラオケ)",
+      "artist": "鈴木雅之 feat.すぅ",
+      "has_synced": true,
+      "path": "select/16_GIRI_GIRI_(for_male_カラオケ)_鈴木雅之_feat.すぅ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GIRI GIRI (feat. すぅ)",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/17_GIRI_GIRI_(feat._すぅ)_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GIRI GIRI",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/18_GIRI_GIRI_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "GIRI GIRI - From THE FIRST TAKE (feat. Suu)",
+      "artist": "Masayuki Suzuki feat. すぅ",
+      "has_synced": true,
+      "path": "select/19_GIRI_GIRI_-_From_THE_FIRST_TAKE_(feat._Suu)_Masayuki_Suzuki_feat._すぅ.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "GIRI GIRI - From THE FIRST TAKE",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/20_GIRI_GIRI_-_From_THE_FIRST_TAKE_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRI GIRI (feat.すぅ)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_GIRI_GIRI_(feat.すぅ)_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GIRI GIRI (feat. すぅ)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_02_GIRI_GIRI_(feat._すぅ)_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "GIRI GIRI (feat. すぅ) [TV Size Ver.]",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_03_GIRI_GIRI_(feat._すぅ)_[TV_Size_Ver.]_鈴木_雅之.txt"
+    }
+  ]
+}
